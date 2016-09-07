@@ -1,0 +1,15 @@
+{
+  "name": "node-ibus-mediacenter",
+  "version": "0.0.0",
+  "dependencies": {
+    "ibus": "*",
+    "log": "*",
+    "cli-color": "*",
+    "underscore": "*",
+    "mpd": "*",
+    "keypress": "*",
+    "xbmc": "*",
+    "onoff": "*",
+    "node-mplayer": "0.0.6"
+  }
+}
